@@ -1,0 +1,5 @@
+{
+  "name": "EventMatch Admin",
+  "description": "Back office system for event participant matching and table management.",
+  "requestFramePermissions": []
+}
